@@ -1,0 +1,29 @@
+# Udemy course materials
+udemy/
+udemy/**
+
+# KDE
+.directory
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Cache
+.cache/
+**/.cache/
+
+# Logs
+*.log
