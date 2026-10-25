@@ -26,4 +26,5 @@ env/
 **/.cache/
 
 # Logs
-*.logdata/
+*.log
+data/
