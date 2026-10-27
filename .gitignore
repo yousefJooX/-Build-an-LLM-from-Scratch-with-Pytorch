@@ -27,3 +27,4 @@ env/
 
 # Logs
 *.log
+data/
